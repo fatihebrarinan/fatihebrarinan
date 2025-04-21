@@ -18,8 +18,8 @@
 
 ## 🛠️ Personal Projects
 
-- [**Project Euler Problems**](#) – Solving as much problem from Project Euler as possible.
-- [**Python Mini Projects**](#) – Collection of small Python apps solving real-world problems from a udemy course.
+- [**Project Euler Problems**](https://github.com/fatihebrarinan/project_euler_python) – Solving as much problem from Project Euler as possible.
+- [**Python Mini Projects**](https://github.com/fatihebrarinan/100days100pyprojects) – Collection of small Python apps solving real-world problems from a udemy course.
 
 More projects coming soon
 
