@@ -1,17 +1,22 @@
-# Hello, I'm Fatih.
+# Fatih, Computer Engineering Sophomore @ Bilkent University
 
-🎓 I'm a first-year Computer Science student at **Bilkent University** with a strong passion for building and creating through code. I'm currently exploring different areas of software development and honing my skills through hands-on projects and learning.
+I'm a developer that loves AI and algorithmic problem-solving.
 
-## 🌱 Currently Learning
+## Recent Projects
+- **AI & Data Pipelines:** Worked with Cloudflare Workers, automating data extraction, processing of large-scale image datasets using Vision-Language Models and OpenSearch.
+- **Side Projects:** Developed a location-based routing engine to discover top-rated destinations on routes. Built an accessibility-first, vanilla web game designed to help children with special needs. And more...
 
-- Algorithms and Data Structures  
-- Unity Game Development  
-- Full-Stack Web Technologies  
-- Applied Machine Learning  
+## Currently Working On
+- Improving myself at C++, Computer Architecture, and App Designs.
+- Learning Unity and Game Design.
+- Learning German for Erasmus at TU Berlin.
 
-## 📫 Get in Touch
+## Tech Stack
+- **Languages:** C++, Python, Java, C#
+- **Tools & Cloud:** Cloudflare Workers, OpenSearch, Docker, Git, Unity
 
-- 📧 Email: ebrar.inan@ug.bilkent.edu.tr
-- 💼 [LinkedIn](https://www.linkedin.com/in/fatih-ebrar-inan-12445131a/)
----
+## Quick Facts
+- WCA-registered competitive Rubik's Cube solver.
+- Dedicated player of traditional Turkish instruments.
 
+**Reach me at:** [fatihebrarinan@gmail.com](mailto:fatihebrarinan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fatih-ebrar-inan-12445131a/)
